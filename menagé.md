@@ -22,6 +22,16 @@ Xta’s Dream:
 
 ---
 
+Résumé
+
+2012/07-2018/01: Hubris
+2018/02-2018/08: Undergang
+2018/`09`-Present: I had a dream!
+
+:)
+
+---
+
 September 8, 2018 at 4:16 AM
 
 You made it so easy for me... to leave 
