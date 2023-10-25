@@ -14,9 +14,10 @@ September 8, 2018
 
 # 3
 
-August 28, 2019 at 2:36 AM
- 🕊 
-I believe I can fly :-)   
+August 28, 2019 at 2:36 AM       
+ 🕊     
+ 
+I believe I can fly :-)      
 At least in my dreams    
 `Third` time I’ve had this dream (NIA Grant: Score: 47 -> 23?)   
 But details vary somewhat   
