@@ -1,14 +1,14 @@
 # 1
 
-`First` time some time from 2009-2018
+`First` time: some where between 2009-2016
 
 ---
 
 # 2
 
-September 8, 2023
+September 8, 2018
 
-`Second` time (after Xta's dream of menagé)
+`Second` time (a few days after Xta's dream of menagé)
 
 ---
 
@@ -16,11 +16,11 @@ September 8, 2023
 
 August 28, 2019 at 2:36 AM
  🕊 
-I believe I can fly :-)
-At least in my dreams 
-`Third` time I’ve had this dream (NIA Grant: Score: 47 -> 23?)
-But details vary somewhat
-First time there were witnesses 
+I believe I can fly :-)   
+At least in my dreams    
+`Third` time I’ve had this dream (NIA Grant: Score: 47 -> 23?)   
+But details vary somewhat   
+First time there were witnesses    
 
 ---
 
