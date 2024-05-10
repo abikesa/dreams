@@ -37,6 +37,17 @@ October 25, 2023
    - Bring together chemistry, psychology, and sociology of frailty from EMR and compete with NHATS
    - And this is the idea of a small NIA business: market it across Hopkins then beyond!!!
 
+# 5
+
+May 8, 2024
+
+`Fifith` time!
+
+- This time I wasn't doing a "Superman": rather, I was doing flips in perhaps an F15, not sure which jet!
+- Perhaps the Ubermensch has got extra wings in AI?
+
+![](https://media.defense.gov/2021/Aug/27/2002841251/1200/1200/0/210817-F-VG042-9113.JPG)
+
 ---
 
 PHS 2023-2 Omnibus Solicitation for Small Business Funding & Commercial Readiness Pilot Program Opportunities Now Available
