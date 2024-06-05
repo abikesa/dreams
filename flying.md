@@ -101,3 +101,14 @@ The standard resubmission policy applies as long as applicants have a qualifying
 Applicants seeking technical assistance only should use PAR-23-219.
 
 
+# [6](https://github.com/abikesa/flying)
+
+June 4, 2024
+
+[Sixith time](https://muzaale.github.io/denotas/bloc/bdn202305.html#xta)
+
+- In context of dreams `#2 & #3` above there is a them of **FACE**: bird-like freedom, high altitude, utter contempt, overflowing exuberance
+- From the perspective of `#4`, I've successfully laid down the technical infrastructure for quick deployment of sophisticated WebApps for personalized medicine
+- With the Vince (Hopkins) & Jing (CDC) email thread suggesting that I'll have `e(b), V(b)` and `stcox ... , basesurv(s0)` before end of week
+- Zeyi's just returned to Uganda after SPJD pulled off a whirlwind tour of Brussels, Viginia, DD, Maryland, Detroit, California, Utah, Delaware, Pennsylvannia, New Jersey, New York, Bujumbura
+- Now my focus is exclusively Thesis, Grants, and some sort of plan for 2025
