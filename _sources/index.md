@@ -12,7 +12,7 @@
 
 ### Biological 1, 2, 3
 ### Social 4
-### Personal [5], 6
+### Personal [5](https://www.youtube.com/watch?v=8iIGBWH0gks), 6
 
 _**Move over Freud**_. That's a fascinating perspective. Dreams indeed seem like an intricate blend of our memories, emotions, and sensory experiences, much like how a multimodal GPT synthesizes information from various inputs to generate coherent outputs. Dreams often pull from different aspects of our lives, weaving together fragments of reality into a tapestry that can be both surreal and deeply insightful.
 
