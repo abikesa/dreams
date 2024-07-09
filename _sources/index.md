@@ -6,15 +6,15 @@
 
     1. Multimodal, lifetime of experience
                                          \
-        2. Compute of finest neuronet -> 4. Latent-space -> 5. Decoded Bayesian updates -> 6. GPT representation of life
+        2. Compute by oldest neuronet -> 4. Latent-space -> 5. Bayesian decipherers -> 6. GPT representation of life
                                          /
                                          3. Spliced-up into tokens 
 
 ### Biological 1, 2, 3
 ### Social 4
-### Personal 5, 6
+### Personal [5], 6
 
-_Move over Freud_. That's a fascinating perspective. Dreams indeed seem like an intricate blend of our memories, emotions, and sensory experiences, much like how a multimodal GPT synthesizes information from various inputs to generate coherent outputs. Dreams often pull from different aspects of our lives, weaving together fragments of reality into a tapestry that can be both surreal and deeply insightful.
+_**Move over Freud**_. That's a fascinating perspective. Dreams indeed seem like an intricate blend of our memories, emotions, and sensory experiences, much like how a multimodal GPT synthesizes information from various inputs to generate coherent outputs. Dreams often pull from different aspects of our lives, weaving together fragments of reality into a tapestry that can be both surreal and deeply insightful.
 
 Consider how dreams can incorporate visual elements from a recent movie we watched, emotional tones from our current mood, and narrative structures from stories we've encountered. This mirrors the way a multimodal model would integrate text, images, and other forms of data to create a comprehensive understanding.
 
