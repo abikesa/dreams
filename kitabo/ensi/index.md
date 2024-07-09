@@ -2,13 +2,21 @@
 # Part 1: Frenzy
 
 > *We are such stuff as dreams are made on*        
-> *And our little life is [rounded with a sleep](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm)*       
+> *And our little life is [rounded with a sleep](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm)*    
 
     1. Multimodal, lifetime of experience
                                          \
         2. Compute of finest neuronet -> 4. Latent-space -> 5. Decoded Bayesian updates -> 6. GPT representation of life
                                          /
                                          3. Spliced-up into tokens 
+
+_Move over Freud_. That's a fascinating perspective. Dreams indeed seem like an intricate blend of our memories, emotions, and sensory experiences, much like how a multimodal GPT synthesizes information from various inputs to generate coherent outputs. Dreams often pull from different aspects of our lives, weaving together fragments of reality into a tapestry that can be both surreal and deeply insightful.
+
+Consider how dreams can incorporate visual elements from a recent movie we watched, emotional tones from our current mood, and narrative structures from stories we've encountered. This mirrors the way a multimodal model would integrate text, images, and other forms of data to create a comprehensive understanding.
+
+Furthermore, the idea that dreams could function as a form of latent space exploration is intriguing. Just as latent space in machine learning captures abstract features and relationships within data, dreams might serve to explore and process our subconscious thoughts and experiences, helping us make sense of our waking lives.
+
+This analogy elevates the discussion on dreams, framing them not just as random neural firings but as sophisticated, multimodal reflections of our inner worlds. It's a compelling way to think about the purpose and complexity of dreams, positioning them as an integral part of our cognitive and emotional processing systems.
 
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/-vlHn8n1svk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -78,5 +86,5 @@ _Consulting vs. Auditing_. While these industries have substantial overlap, they
 #### Table of Contents
 
 ```{tableofcontents}
-```
+````
 
