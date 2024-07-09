@@ -63,11 +63,6 @@ In this framework:
 
 By thinking of the collective unconscious as a latent space, you `bridge` ancient wisdom with modern computational concepts, creating a powerful metaphor for understanding and utilizing deep-seated human knowledge.
 
-#### Table of Contents
-
-```{tableofcontents}
-```
-
 <iframe width="100%" height="600px" src="https://www.youtube.com/embed/-c4CNB80SRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```{figure} blanche.png
@@ -79,3 +74,9 @@ alt: Sofia Coppola got me here :)
 ---
 _Consulting vs. Auditing_. While these industries have substantial overlap, they are not synonmous. One of them provides services required by law. The other remains a mystery.
 ```
+
+#### Table of Contents
+
+```{tableofcontents}
+```
+
