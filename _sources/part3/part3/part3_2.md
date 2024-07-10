@@ -24,7 +24,7 @@ _Rosemary's Baby_ has a very impressive dream sequence. Roman Polansky really kn
 
 ### Biological 1, 2, 3
 - _Sensory_. The `greatness` of his task and the `smallness` of his contemporaries and judges. But he doesn't live on my own self-made `credit`, he has many backers
-- _Memory_. Here we swing between hallucination and lucidity and a very ambiguous way
+- _Memory_. Here we swing between [hallucination](https://peteslade.com/education/artificial-intelligence/llm-hallucinations/ai-hallucinations-from-science-fiction-to-reality) and lucidity and a very ambiguous way
 - _Emotion_. I don't believe he ever seeks to `"improve"` or tame mankind. His mission is aesthetic
 
 
