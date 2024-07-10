@@ -1,5 +1,7 @@
 (rr-open-source)=
-# Rosemary's Baby
+# 5.2
+
+## Rosemary's Baby
 
 > *Dream sequence!*
 
@@ -49,8 +51,6 @@ _Sensory_. The dream sequence was partly stimulated by the Husband, doing his du
 - _[Interpreters](https://www.youtube.com/watch?v=jadWYEzk58Y)_. I bid you lose me and find yourselves
 - _Transvaluation_. No fanatic speaks to you here; this is not a "sermon"; no faith is demanded in these pages; here it is not a "prophet" who speaks. _Amor Fatí_
 
-# Architecture of my neural network
-
 
                 1. Chaos
                         \
@@ -58,7 +58,7 @@ _Sensory_. The dream sequence was partly stimulated by the Husband, doing his du
                         /
                         3. Gaia -> Uranus
 
-```
+
 
 ```{figure} ../figures/blanche.png
 ---
