@@ -1,5 +1,3 @@
-(rr-open-data)=
-# Nationalism
 
 <iframe src="https://www.youtube.com/embed/m9J_RC1VhxY" width="100%" height="300" style="border:none;"></iframe>
 
@@ -9,15 +7,7 @@
                                                       /
                                                       3. Pouvoir/Falstaff vs. Prince of Wales
 
-```{figure} ../../figures/blanche.png
----
-height: 1
-width: 1
-name: data-privacy
-alt: An
----
-_Henry V_. The opening sequence after the prologue of Kenny Branagh's version inspired this layer of my neural network, which had been trained on an earlier layer titled "Uganda"
-```
+
                                               
 ### Dionysus 1, 2, 3
 - Interrupted "happiness" of all people who have been colonized by more organized nations with [divine ambition puff'd](https://abikesa.github.io/henryv/)
@@ -43,12 +33,3 @@ _Henry V_. The opening sequence after the prologue of Kenny Branagh's version in
                                       2. Peasant-Memory ->  4. Manufacturer-Art -> 5. Energy-Science -> 6. Transportation-Ideals
                                                             /
                                                             3. Farmer-Emotion
-
-```{figure} ../../figures/blanche.png
----
-height: 1
-width: 1
-name: data-privacy
-alt: An
----
-_Uganda_. The hunter-gatherer relies on their `sensory` to decide when to go hunting and gathering. It's all about hunger. But if `memory` of harships serves you right, as population growth and competition for land emerges, then sowing seed and bringing in the shieves becomes a communal obligation season in and out. Later the slave will toil to produce a surplus for the conquering tribe and this will encode an unforgettable `emotional` imprint, and history itself will be writ & this will never be forgotten. But soon the very essence of farming will be codified and made programmable, so that `machines` and an industrial revolution take over this business. This is _The Matrix_. With humans being dispensed with from manual labor, they emerge as a critical source of energy in a world that hungers for "compute". This is `openAI`. And, thus, is the stage set to wax lyrical about the `ethical` implications of the AI revolution. This is the world of 2024 and beyond.

@@ -1,77 +1,54 @@
 (rr-open-data)=
-# Open Data
+# Nationalism
 
-The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information.
-This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
-Only a very small proportion of the original data is published in conventional journals.
-Despite existing policies on archiving data, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public (and often even to the researcher who generated the data).
+<iframe src="https://www.youtube.com/embed/m9J_RC1VhxY" width="100%" height="300" style="border:none;"></iframe>
 
-This lack of data sharing is an obstacle to international research (be it academic, governmental, or commercial) for two main reasons:
+                                    1. Voir/Richard II 
+                                                      \ 
+                                2. Savoir/Henry IV ->  4. Communication/Lord Cantebury -> 5. Mobilization/Decision to Make Claim -> 6. Outcomes/Battle of Agincourt
+                                                      /
+                                                      3. Pouvoir/Falstaff vs. Prince of Wales
 
-1. It is generally difficult or impossible to reproduce a study without the original data.
-2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
-
-Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
-Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
-Open data is freely available on the internet.
-Any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
-
-This represents a real shift in how research works. Funders are starting to require researchers to make their data available and submit data management plans {ref}`Data Management Plans<rr-rdm-dmp>` as part of project proposals.
-At the moment, anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
-"Open by default" remedies this with a presumption of publication for all.
-If access to data is restricted, for instance, due to security reasons, the justification for this should be made clear.
-Free access to and subsequent use of data is of significant value to society and the economy.
-That data should, therefore, be open by default and only as closed as necessary.
-
-You can find more about the practical steps to make your data available in the section describing {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
-
-(rr-open-data-barriers)=
-## Barriers to Data Sharing
-Many academics find sharing data difficult.
-Recent surveys {cite:ps}`Stuart2018sharing` conducted amongst researchers list the following reasons:
-
-- Organising data in a presentable and useful way is challenging (mentioned by 46%)
-- Researchers are unsure about copyright and licensing (mentioned by 37%)
-- Researchers do not know which repository to use for different data types (raised by 33%)
-
-These are cultural challenges that might be addressed in changing practice going forward.
-However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
-Below, we discuss some reasons explaining why this may be the case.
-
-```{figure} ../../figures/data-privacy.*
+```{figure} ../../figures/blanche.png
 ---
-height: 500px
+height: 1
+width: 1
 name: data-privacy
-alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve - dignity, agency, privacy, rights, confirmed consent.'
+alt: An
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+_Henry V_. The opening sequence after the prologue of Kenny Branagh's version inspired this layer of my neural network, which had been trained on an earlier layer titled "Uganda"
 ```
+                                              
+### Dionysus 1, 2, 3
+- Interrupted "happiness" of all people who have been colonized by more organized nations with [divine ambition puff'd](https://abikesa.github.io/henryv/)
+  - The Aztecs, Inca, Maya, Native Americans, Aborigines, and many other indigenous peoples experienced their own forms of structured societies and cultures, which were disrupted and often obliterated by the imperial ambitions of European powers. This "divine ambition" wasn't just about religious zeal but a broader sense of manifest destiny and a drive for economic and territorial expansion.
+- Narrative and communication here is romantic, nationalist, and panafrican. Only appeals to the weak who have no say over the "melody" of human history
+  - This perspective often glorifies a past that, while rich and complex, was not without its own struggles and conflicts. The idea of re-writing or "re-harmonizing" history can serve to empower those who feel marginalized but can also oversimplify the realities of historical and cultural dynamics.
+- What we have is the opportunity to `reharm` this melody to smooth away dissonances and provide consonant harmonies and lullabies
+  - The task of addressing historical injustices and creating a more harmonious future is undoubtedly complex. It involves recognizing past wrongs, understanding their lasting impacts, and working collaboratively to create a more equitable world. This requires more than just a romantic retelling; it needs actionable steps and inclusive dialogue.
+    
+### O For a Muse of Fire 🔥 [4](https://abikesa.github.io/dionysus/intro.html)
+- Timing of industrial revolution (1700s) & colonization of Africa (1900s) yields distinct qualities from Native (Canada), Aztek (North), Maya (Central), Inca (South), Aborigines (Australia), Chinese, Japanese, and other civilizations 
+  - The Industrial Revolution and the concurrent colonization of Africa indeed created a unique set of circumstances. While many societies were grappling with industrialization and its implications, Africa was being forcibly integrated into a global economic system that prioritized European industrial needs over local development.
 
-(rr-open-data-barriers-privacy)=
-### Privacy And Data Protection
+### Apollo 5, 6
 
-Many fields of research involve working with sensitive personal data, with medical research being the most obvious example. 
-Please see the {ref}`sensitive data<pd-sdp>` chapter for more information about different types of sensitive data. 
-You can check the {ref}`Managing Sensitive Data Projects<pd-sdpm>` chapter on how you should manage these data. 
-Particularly the {ref}`Data Privacy Strategies<pd-sdpm-privacy>` section can help you to safely manage and protect sensitive personal data. 
+- Africa may have been handed back its "sovereignty" but Europe's industrialization would pick African produce higher up the **value chain**
+  - The legacy of colonization continues to affect Africa's economic landscape. While political sovereignty has been restored, economic structures often remain tilted in favor of former colonial powers. Raw materials are extracted and processed elsewhere, diminishing the value that remains within African economies.
+- Museveni fails to link this to his [other idea](https://www.youtube.com/watch?v=585IMBb14Kg&t=1s) regarding African progression along: Hunter-gatherer, peasant, farmer, technology, electricity, transportation
+  - Sevo's vision for African progression is ambitious but lacking practical implementation and failing to address the systemic barriers that hinder such development including **leaders who stay in power for too long**. For Africa to truly progress along this spectrum, there needs to be a strong signal to the market place that lowers the [costs of borrowing](https://www.youtube.com/watch?v=585IMBb14Kg&t=1s). This former Marxist isn't privy to these workings of the market and accuses the West (i.e., The World Bank) for not having Africa's interest at heart 
 
-(rr-open-data-barriers-consent)=
-### Consent
+                                    1. Hunt.gatherer-Sensory 
+                                                            \ 
+                                      2. Peasant-Memory ->  4. Manufacturer-Art -> 5. Energy-Science -> 6. Transportation-Ideals
+                                                            /
+                                                            3. Farmer-Emotion
 
-For anonymised research data to be made available for future reuse, consent forms must cover sharing this data with other researchers.
-Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite:ps}`Kuula2010archiving`.
-Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long term, and how confidentiality will be protected when needed.
-
-
-(rr-open-data-barriers-national)=
-### National and Commercially Sensitive Data
-
-In many cases, companies are understandably unwilling to publish much of their data.
-The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness.
-This is based on the thinking that in competitive markets, innovation will only occur with some protection of information.
-If a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources.
-The result is that no one would innovate in the first place.
-Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
-In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets.
-
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
+```{figure} ../../figures/blanche.png
+---
+height: 1
+width: 1
+name: data-privacy
+alt: An
+---
+_Uganda_. The hunter-gatherer relies on their `sensory` to decide when to go hunting and gathering. It's all about hunger. But if `memory` of harships serves you right, as population growth and competition for land emerges, then sowing seed and bringing in the shieves becomes a communal obligation season in and out. Later the slave will toil to produce a surplus for the conquering tribe and this will encode an unforgettable `emotional` imprint, and history itself will be writ & this will never be forgotten. But soon the very essence of farming will be codified and made programmable, so that `machines` and an industrial revolution take over this business. This is _The Matrix_. With humans being dispensed with from manual labor, they emerge as a critical source of energy in a world that hungers for "compute". This is `openAI`. And, thus, is the stage set to wax lyrical about the `ethical` implications of the AI revolution. This is the world of 2024 and beyond.
