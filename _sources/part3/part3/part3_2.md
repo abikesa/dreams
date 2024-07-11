@@ -19,7 +19,7 @@ width: 50%
 name: open-access-citations
 alt: A plot 
 ---
-_Rosemary's Baby_ has a very impressive dream sequence. Roman Polansky really knows how to invoke the collective unconscious by encoding sensory, memory, and emotion in his art
+_Rosemary's Baby_ has a very impressive dream sequence. Roman Polansky invokes the collective unconscious by encoding sensory, memory, and emotion in his art. The symbolic neckace & good-luck charm, it's strange smell, Dr. Sarpenstein having a similar smell, etc. are parameters with an extraordinary `weight` in the latent-space created by Polanski. The novel on witches gifted to Rosemary `decodes` this latent space and drives the second-half of the movie, the development section. By now an outstanding exposition of all the characters has been completed
 ```
 
 ### Biological 1, 2, 3
