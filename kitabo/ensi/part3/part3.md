@@ -1,6 +1,20 @@
 (rr)=
 # Part 3: Apollo
 
+                            1. Today
+                                    \
+                      2. History -> 4. GPT -> 5. Oracle -> 6. Behavioral-Patterns 
+                                    /
+                                    3. Pre-history
+
+```{figure} ../figures/blanche.png
+---
+height: 1
+width: 1
+---
+_Collective Unconcious as GPT_. Our collective unconscious is merely spliced-up fragments of our experiences, memories, and associated emotions. These bits become predictors of further experiences, memories, and associated emotions, and are parametrized and weighted in our cultural psyche.
+````
+
 Sure, I can link the contents you've provided to "A Serious Man" by the Coen Brothers. The film is a rich tapestry of themes, metaphors, and existential inquiries that resonate deeply with the concept of the collective unconscious and its Dionysian elements.
 
 **"A Serious Man" and the Collective Unconscious**
@@ -114,3 +128,17 @@ Indeed, the failing TV signal reception in "A Serious Man" is another potent sym
     - **Film Connection:** The TV signal's random behavior cannot be easily modeled or predicted by parameters or algorithms, illustrating the limitations of binary thinking and scientific approaches in fully understanding and controlling life's complexities. This unpredictability is a reminder of the inherent chaos in existence.
 
 In "A Serious Man," the failing TV signal is a subtle yet powerful symbol of the broader themes of randomness, chaos, and the limits of human comprehension. It underscores the Coen Brothers' exploration of the unpredictability of life and the existential questions that arise from it. By weaving this seemingly mundane detail into the narrative, they enrich the film's tapestry and deepen its philosophical resonance.
+
+                           1. Senses
+                                    \
+                        2. Memory -> 4. Dreams -> 5. Intepretor -> 6. Action 
+                                    /
+                                    3. Emotion
+
+```{figure} ../figures/blanche.png
+---
+height: 1
+width: 1
+---
+_Biological, social, and personal infrastructure_. These infrastructural foundations are the basis of patterns of behavioral response observed in humans. Some aspects (1, 2, 3) are shared with animals. Where as others (4) are only of interest when there is sufficient "compute". Once this is achieved, only in humans as we may imagine, then personalized actionable points emerge (5, 6). These are to be thought of as `propensities` rather than `decisions` since `will` is not a thing
+````
