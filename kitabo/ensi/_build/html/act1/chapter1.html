@@ -764,66 +764,82 @@ document.write(`
 <p>It listens not just to patients, but to analysts. Ukubona’s back-end is transparent. The Cox regression is not a black box; it is documented, modifiable, inspectable. The platform respects those who question it. This, too, is moral: no model should be above critique.</p>
 <p>Even the life-raft, which might seem passive, is built on this ethic. It is a default made by people who care. It is a best-guess, constantly updated. It floats not by luck, but by repeated testing. It is born of humility: sometimes people can’t engage deeply—and that’s okay.</p>
 <style>
-/* Wikipedia-style infobox */
-.wiki-frame {
+.float-right {
     float: right;
     width: 35%;
+    height: auto;
     margin-left: 15px;
-    border: 1px solid #a2a9b1;
-    padding: 10px;
-    background-color: #f8f9fa;
-    font-size: 14px;
-    font-family: sans-serif;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.wiki-frame h3 {
-    background-color: #eaecf0;
-    color: #000;
-    text-align: center;
+    border: 1px solid #ccc;
     padding: 5px;
-    font-size: 16px;
-    font-weight: bold;
-    border-bottom: 2px solid #a2a9b1;
-    margin-top: 0;
+    text-align: center;
+    font-size: 12px;
+    background-color: #f9f9f9;
+    position: relative;
 }
 
-.wiki-frame pre {
-    white-space: pre-wrap;
-    background-color: #fff;
-    padding: 8px;
-    border: 1px solid #a2a9b1;
-    font-family: monospace;
-    overflow-x: auto;
+.float-right img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
-/* Make the frame responsive */
-@media (max-width: 768px) {
-    .wiki-frame {
-        float: none;
-        width: 100%;
-        margin-left: 0;
-    }
+.image-bubble.layered-icon {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    width: 12px;
+    height: 10px;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.large-icon {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ddd;
+    border: 1px solid #888;
+    border-radius: 2px;
+}
+
+.small-icon {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: #aaa;
+    border: 1px solid #666;
+    border-radius: 2px;
+    bottom: -1px;
+    left: -1px;
+}
+
+.image-bubble.layered-icon:hover .large-icon {
+    background-color: #007BFF;
+    border-color: #0056b3;
+}
+
+.image-bubble.layered-icon:hover .small-icon {
+    background-color: white;
+    border-color: #007BFF;
 }
 </style>
 
-<!-- Wikipedia-style Code Box -->
-<div class="wiki-frame">
-
-```{python}<img src="../figures/cgbest.jpeg" alt="Eco-Green QR Code" width="100%">
-<div class="float-right" style="float:none;width:100%;margin-left:0;border:none;padding:0;background:none;">
-  <a class="image-bubble layered-icon" href="../figures/cgbest.jpeg" target="_blank" title="Click to magnify">
-    <div class="large-icon"></div>
-    <div class="small-icon"></div>
-  </a>
-<figure class="align-default" id="wiki-symbiosis">
-<a class="reference internal image-reference" href="https://www.ledr.com/colours/white.jpg"><img alt="https://www.ledr.com/colours/white.jpg" src="https://www.ledr.com/colours/white.jpg" style="width: 1px; height: 1px;" /></a>
+<div class="float-right">
+    <a href="../figures/cgbest.jpeg" target="_blank">
+        <img src="../figures/cgbest.jpeg" alt="CG-BEST Fractal Diagram">
+    </a>
+    <p>🪡🔥🛠️🏝️ CG-BEST: not just a system but a sacred geometry of survival. This rendering honors the layered, ecological, and mythic logic that outpaces the crude binaries of empire.</p>
+    <a class="image-bubble layered-icon" href="../figures/cgbest.jpeg" target="_blank" title="Click to magnify">
+        <div class="large-icon"></div>
+        <div class="small-icon"></div>
+    </a>
+</div><figure class="align-default" id="fig-cgbest">
+<a class="reference internal image-reference" href="../_images/cgbest.jpeg"><img alt="../_images/cgbest.jpeg" src="../_images/cgbest.jpeg" style="width: 1%;" /></a>
 <figcaption>
-<p><span class="caption-number">Fig. 5 </span><span class="caption-text">Let’s use a .md version of a python codeblock</span><a class="headerlink" href="#wiki-symbiosis" title="Permalink to this image">#</a></p>
+<p><span class="caption-number">Fig. 5 </span><span class="caption-text">The CG-BEST diagram rendered above.</span><a class="headerlink" href="#fig-cgbest" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
-</div>
-</div>
 <p>But for those who can, the scissors await. A beautiful tool. Delicate, sharp. The curve can be trimmed to fit gender, race, lab value, comorbidity. These aren’t tweaks for show—they change the shape of the risk. They reshape fate. Ukubona makes that visible.</p>
 <p>The shark, meanwhile, circles. Ukubona does not pretend it can be defeated entirely. The shark is the cost of automation. The risk of scale. It is always there. Ukubona’s courage is not in ignoring it, but in naming it. That, too, is visibility.</p>
 <p>Visibility is not enough. Ukubona believes in accountability. Every curve it draws is tied to sources. Data provenance matters. If a curve misleads, the platform takes responsibility. It is not infallible—but it is answerable.</p>
