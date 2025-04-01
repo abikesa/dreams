@@ -848,6 +848,94 @@ document.write(`
 <p>Answerability extends to its developers. Ukubona does not hide its team. It humanizes them. It shows who made the models, who tested them, who maintains them. This breaks the myth of AI as godlike. It restores personhood to the process.</p>
 <p>That personhood ripples outward. Patients using Ukubona do not just “see” risk—they reclaim some of their story. They no longer submit to clinical fate passively. They narrate. They ask: what if I wait? What if I proceed? What does that curve mean for my child?</p>
 <p>And still, the island beckons. Not as salvation, but as orientation. A place to rest, briefly, before setting sail again. Ukubona never pretends the journey ends. It simply gives you the means to continue, eyes open, map in hand, and truth underfoot.</p>
+<style>
+/* Container that floats right with image and caption */
+.float-right {
+    float: right;
+    width: 35%;
+    height: auto;
+    margin-left: 15px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+    font-size: 12px;
+    background-color: #f9f9f9;
+    position: relative;
+}
+
+/* Image itself */
+.float-right img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Magnify icon overlay */
+.image-bubble.layered-icon {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    width: 12px;
+    height: 10px;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+    z-index: 5;
+}
+
+/* Larger screen rectangle */
+.large-icon {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ddd;
+    border: 1px solid #888;
+    border-radius: 2px;
+}
+
+/* Smaller screen at 7 o'clock */
+.small-icon {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: #aaa;
+    border: 1px solid #666;
+    border-radius: 2px;
+    bottom: -1px;
+    left: -1px;
+}
+
+.image-bubble.layered-icon:hover .large-icon {
+    background-color: #007BFF;
+    border-color: #0056b3;
+}
+
+.image-bubble.layered-icon:hover .small-icon {
+    background-color: white;
+    border-color: #007BFF;
+}
+</style>
+
+<div class="float-right">
+
+<!-- Your empty Python code cell goes directly above this block in the .ipynb file -->
+
+<a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Peacock_Plumage.jpg" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Peacock_Plumage.jpg" alt="Eco-Green QR Code">
+</a>
+
+<a class="image-bubble layered-icon" href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Peacock_Plumage.jpg" target="_blank" title="Click to magnify">
+    <div class="large-icon"></div>
+    <div class="small-icon"></div>
+</a>
+
+```{figure} https://www.ledr.com/colours/white.jpg
+---
+width: 1
+height: 1
+name: figures/cgbest
+---
+We just might have figured out how to number non-python images. This is exciting</div>
 </section>
 
     <script type="text/x-thebe-config">
