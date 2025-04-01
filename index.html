@@ -564,28 +564,101 @@ document.write(`
 <p>The open letter by the National Academies’ scientists was not merely an act of protest; it was a desperate invocation of Athena. Their collective plea—“we are sending this SOS”—is a ritual cry, a Homeric chorus summoning the goddess back into the agora. These are not bureaucrats lamenting job cuts. These are elders of the scientific temple warning that the sacred tools—peer review, reproducibility, open data—are being desecrated. And the stakes are not abstract. This is about the health of children, the safety of water, the resilience of forests, the survival of truth itself.</p>
 <p>In our symbolic cosmology—🌊 for unfiltered truth, 🚢 for inherited structure, 🪛🏴‍☠️ for strategic resistance, ✂️🦈🛟 for discernment, risk, and grace, and 🏝️ for ideology or final meaning—we see that science occupies the precarious position of the raft. It is not the island, despite what technocrats claim. Nor is it the ship of myth handed down. It is the raft cobbled together from data, theory, instrumentation, and debate—always provisional, always vulnerable, always one shark bite away from oblivion. But it floats. And it saves lives.</p>
 <style>
-.float-right {
+/* Container styling (Wikipedia infobox style) */
+.wiki-frame {
     float: right;
     width: 35%;
-    height: auto;
     margin-left: 15px;
-    border: 1px solid #ccc;
-    padding: 5px;
-    text-align: center;
-    font-size: 12px;
-    background-color: #f9f9f9;
+    border: 1px solid #a2a9b1;
+    padding: 10px;
+    background-color: #f8f9fa;
+    font-size: 14px;
+    font-family: sans-serif;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    position: relative; /* Essential for magnify icon */
 }
 
-.float-right p {
+/* Image styling */
+.wiki-frame img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Caption styling */
+.wiki-frame p {
     text-align: left;
     font-size: 12px;
+    margin-top: 8px;
+}
+
+/* Magnify icon styling */
+.image-bubble.layered-icon {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    width: 12px;
+    height: 10px;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.large-icon {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ddd;
+    border: 1px solid #888;
+    border-radius: 2px;
+}
+
+.small-icon {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: #aaa;
+    border: 1px solid #666;
+    border-radius: 2px;
+    bottom: -1px;
+    left: -1px;
+}
+
+.image-bubble.layered-icon:hover .large-icon {
+    background-color: #007BFF;
+    border-color: #0056b3;
+}
+
+.image-bubble.layered-icon:hover .small-icon {
+    background-color: white;
+    border-color: #007BFF;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .wiki-frame {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
 }
 </style>
 
-<div class="float-right">
+<div class="wiki-frame">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/6/64/Symbiotic_relationships_diagram.svg" target="_blank">
     <iframe width="100%" height="250" src="https://www.youtube.com/embed/p7V74lJKocs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>What is being optimized? Capital gains or human welfare? It's convenient to say that optimizing capital gains is a complex process, wherein improved human welfare is an emergent, unintended phenomenon  </p>
-</div><p>Trump’s dismantling of science institutions was thus not simply an anti-intellectual maneuver. It was a symbolic rupture in the epistemic architecture of the state. By removing the Athena-filter—by muzzling climate scientists, firing CDC officials, and undermining the FDA—the administration chose to navigate the stormy sea without map, compass, or raft. It plunged the nation into Dionysian chaos while insisting on an Apollonian delusion. And the citizens, caught in the middle, found themselves both drowning and dreaming.</p>
+  </a>
+  <a class="image-bubble layered-icon" href="https://upload.wikimedia.org/wikipedia/commons/6/64/Symbiotic_relationships_diagram.svg" target="_blank" title="Click to magnify">
+    <div class="large-icon"></div>
+    <div class="small-icon"></div>
+  </a>
+
+  <!-- Hidden placeholder for Jupyter Book numbering --><figure class="align-default">
+<a class="reference internal image-reference" href="https://www.ledr.com/colours/white.jpg"><img alt="https://www.ledr.com/colours/white.jpg" src="https://www.ledr.com/colours/white.jpg" style="width: 1px; height: 1px;" /></a>
+</figure>
+</div>
+</div>
+<p>Trump’s dismantling of science institutions was thus not simply an anti-intellectual maneuver. It was a symbolic rupture in the epistemic architecture of the state. By removing the Athena-filter—by muzzling climate scientists, firing CDC officials, and undermining the FDA—the administration chose to navigate the stormy sea without map, compass, or raft. It plunged the nation into Dionysian chaos while insisting on an Apollonian delusion. And the citizens, caught in the middle, found themselves both drowning and dreaming.</p>
 <p>The owl, in our mythic language, symbolizes silent insight, the kind that sees through darkness. The Trump administration preferred the peacock. It offered spectacle, not wisdom. It recoiled from the serpent’s uncomfortable truths—of systemic racism, ecological fragility, pandemic mismanagement—and instead wrapped itself in the aegis of nationalism and economic bravado. But what good is a shield that blinds instead of reveals? What virtue in a helmet that muffles rather than protects?</p>
 <style>
 /* Wikipedia-style infobox */
@@ -857,104 +930,7 @@ document.write(`
 <p>This moment must be remembered not just as a political scandal but as an epistemological tragedy. A moment when the compass was flung overboard and the sea—the great 🌊—was mistaken for a playground rather than the abyss. And it is only through Athena, not Apollo, that we regain navigation.</p>
 <p>So let us elevate this narrative into our symbolic frame: The Trump administration was a rogue tide, a Dionysian surge weaponized and clad in Apollonian deceit. The scientists were the cingulo-insular function—the salience network activated by threat. The raft was science under siege, patched by Athena’s weary hands. And the island—the imagined safety of knowledge used wisely—remains distant, flickering, not yet reached.</p>
 <p>But the spear still gleams. The owl still flies. The serpent still waits beneath the shield. And Athena—if summoned by enough voices—may yet return.</p>
-<style>
-/* Container styling (Wikipedia infobox style) */
-.wiki-frame {
-    float: right;
-    width: 35%;
-    margin-left: 15px;
-    border: 1px solid #a2a9b1;
-    padding: 10px;
-    background-color: #f8f9fa;
-    font-size: 14px;
-    font-family: sans-serif;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    position: relative; /* Essential for magnify icon */
-}
-
-/* Image styling */
-.wiki-frame img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-/* Caption styling */
-.wiki-frame p {
-    text-align: left;
-    font-size: 12px;
-    margin-top: 8px;
-}
-
-/* Magnify icon styling */
-.image-bubble.layered-icon {
-    position: absolute;
-    bottom: 8px;
-    right: 8px;
-    width: 12px;
-    height: 10px;
-    background: none;
-    padding: 0;
-    cursor: pointer;
-}
-
-.large-icon {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-color: #ddd;
-    border: 1px solid #888;
-    border-radius: 2px;
-}
-
-.small-icon {
-    position: absolute;
-    width: 50%;
-    height: 50%;
-    background-color: #aaa;
-    border: 1px solid #666;
-    border-radius: 2px;
-    bottom: -1px;
-    left: -1px;
-}
-
-.image-bubble.layered-icon:hover .large-icon {
-    background-color: #007BFF;
-    border-color: #0056b3;
-}
-
-.image-bubble.layered-icon:hover .small-icon {
-    background-color: white;
-    border-color: #007BFF;
-}
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .wiki-frame {
-        float: none;
-        width: 100%;
-        margin-left: 0;
-    }
-}
-</style>
-
-<div class="wiki-frame">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/6/64/Symbiotic_relationships_diagram.svg" target="_blank">
-    <iframe width="100%" height="250" src="https://www.youtube.com/embed/p7V74lJKocs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </a>
-  <a class="image-bubble layered-icon" href="https://upload.wikimedia.org/wikipedia/commons/6/64/Symbiotic_relationships_diagram.svg" target="_blank" title="Click to magnify">
-    <div class="large-icon"></div>
-    <div class="small-icon"></div>
-  </a>
-
-  <!-- Hidden placeholder for Jupyter Book numbering --><figure class="align-default" id="id2">
-<a class="reference internal image-reference" href="https://www.ledr.com/colours/white.jpg"><img alt="https://www.ledr.com/colours/white.jpg" src="https://www.ledr.com/colours/white.jpg" style="width: 1px; height: 1px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 3 </span><span class="caption-text">Consider pretext, subtext, text, context, metatext. It is <b>text</b> in the mode of holy-writ that makes Faustian bargains vs. Islamic finance the ultimate bifurcation in how systems are engineered.</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
-</figcaption>
-</figure>
-</div>
-</div><div class="toctree-wrapper compound">
+<div class="toctree-wrapper compound">
 </div>
 </section>
 
